@@ -12,4 +12,13 @@ A simple TicTacToe with some Quantum Mechanics concepts.
 Player can play against the computer or against another player.
 
 ## Computer Player
-Basic Reinforcement Learning models are trained to play the game.  
+Basic Reinforcement Learning models are trained to play the game.
+
+
+## How to play
+Install required packeges(given in requirements.txt)
+Run main.py
+
+## Training models with custom difficulty
+Change number of rounds in 'rounds' list in train.py (higher the rounds higher the difficulty)
+Run train.py
