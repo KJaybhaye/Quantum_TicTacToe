@@ -10,7 +10,7 @@ class HumanPlayer:
                continue
             try:  
               if act == 'e':
-                f = input('Enter coordinates of first bit seperated by space i.e row col: ').split()
+                f = input('Enter coordinates of first bit seperated by space i.e row col eg. 0 0: ').split()
                 f = [int(i) for i in f]
                 s = input('Same for second bit : ').split()
                 s = [int(i) for i in s]
@@ -19,7 +19,7 @@ class HumanPlayer:
                 print('Enter valid action and coordinates!')
                 continue
 
-              pos = input('Enter coordinates of the bit seperated by space i.e row col: ').split()
+              pos = input('Enter coordinates of the bit seperated by space i.e row col eg. 0 0: ').split()
               pos = [int(i) for i in pos]
               print(' ')
               if act == 'm':
