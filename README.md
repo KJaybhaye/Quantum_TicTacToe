@@ -16,7 +16,7 @@ Basic Reinforcement Learning models are trained to play the game.
 
 
 ## How to play
-Install required packeges(given in requirements.txt)
+Install required packeges(given in requirements.txt) : run command pip3 install -r requirements.txt
 Run main.py
 
 ## Training models with custom difficulty
