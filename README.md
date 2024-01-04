@@ -9,8 +9,8 @@ A simple TicTacToe with some Quantum Mechanics concepts.
 5) Winning: Similar to normal TicTacToe.
 
 ## Board Information
-\# = a placed symbol (not entangled)
-number >=2 : entangled symbol (two symbols with same number are entangled)
+\# = a placed symbol (not entangled)   
+number >=2 : entangled symbol (two symbols with same number are entangled)  
 measurd symbols : X or O
 
 
