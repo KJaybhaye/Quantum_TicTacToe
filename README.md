@@ -1,7 +1,7 @@
-## Quantum_TicTacToe
+# Quantum_TicTacToe
 A simple TicTacToe with some Quantum Mechanics concepts.
 
-# Rules:
+## Rules:
 1) Each player can perform one 3 actions: a) place a quantum symbol b) entangle two symbols c) measure one of the placed symbols
 2) Quantum symbol: This is a symbol that is in superposition of both 'X' and 'O'.
 3) Measurement: When measured it collapses to one of the two symbols.
@@ -11,5 +11,5 @@ A simple TicTacToe with some Quantum Mechanics concepts.
 
 Player can play against the computer or against another player.
 
-# Computer Player
+## Computer Player
 Basic Reinforcement Learning models are trained to play the game.  
