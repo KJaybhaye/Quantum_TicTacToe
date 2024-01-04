@@ -8,6 +8,11 @@ A simple TicTacToe with some Quantum Mechanics concepts.
 4) Entangled symbols: When one of the entangled symbols is measured it collapses to a symbol. The symbol entangled with it becomes the opposite symbol.
 5) Winning: Similar to normal TicTacToe.
 
+## Board Information
+\# = a placed symbol (not entangled)
+number >=2 : entangled symbol (two symbols with same number are entangled)
+measurd symbols : X or O
+
 
 Player can play against the computer or against another player.
 
