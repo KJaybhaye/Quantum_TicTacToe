@@ -4,6 +4,7 @@ class HumanPlayer:
 
     def chooseAction(self,board):
         while True:
+            print(f"{self.name}'s turn")
             act = input('Choose action (p: place bit, m: measure, e:entangle): ')
             if act not in ['p', 'm', 'e']:
                print('Please enter proper action (p or m or e)')
