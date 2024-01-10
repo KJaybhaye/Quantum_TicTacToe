@@ -1,5 +1,6 @@
 # Quantum_TicTacToe
-A simple TicTacToe with some Quantum Mechanics concepts.
+A simple TicTacToe with some Quantum Mechanics concepts. 
+(This game was made for the Quantum Explorers 2023 (Prime Ambassadorr Badge) under the "Quantum Creative Winter Fest" event.)
 
 ## Rules:
 1) Each player can perform one 3 actions: a) place a quantum symbol b) entangle two symbols c) measure one of the placed symbols
